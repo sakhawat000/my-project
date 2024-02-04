@@ -24,11 +24,27 @@
     padding: 18px 35px;
 
 }
+.contac-btn{
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    color: #FD6E0a;
+    border-color: #FD6E0a;
+    background-color: white;
+    border-radius: 15px;
+
+}
 .bnt-praimare:hover{
    background-color: aqua;
    color: red;
    transform: scale(1.5);
 }
+.contac-btn:hover{
+    background-color: aqua;
+   color: red;
+   transform: scale(1.5);
+}
+
 /* header and menu style */
 nav{
     display: flex;
@@ -213,4 +229,5 @@ input{
     text-align: none;
     margin-right: 5px;
     font-size: 14px;
+    
 }
