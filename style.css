@@ -8,7 +8,7 @@
     color: #FD6E0a;
 }
 .hearder{
-    color: white;
+    color:FFF8F3;
     background-image: url('./images/header_bg.png'), url('./images/developer.png');
     background-repeat: no-repeat;
     background-position: bottom right , left;
@@ -33,7 +33,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     color: black;
